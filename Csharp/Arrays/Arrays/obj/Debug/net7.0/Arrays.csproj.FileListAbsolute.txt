@@ -1,0 +1,15 @@
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Arrays\Arrays\obj\Debug\net7.0\ref\Arrays.dll
