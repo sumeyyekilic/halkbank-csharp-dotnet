@@ -63,4 +63,7 @@ namespace Inheritance
             Console.WriteLine($"{GetType().Name}, yanında dondurma ile sunuldu");
         }
     }
+
+    //virtual olmayan sınıf override edilemez. virtual edilidğinde, kalıtım alınan sınıf tarafından override edilir.
+    //override bir sınıfa miras veren
 }

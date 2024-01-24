@@ -17,6 +17,7 @@
             asci.Pisir(tulumbaTatlisi);
 
 
+            tulumbaTatlisi.SunumYap();
         }
 
 
