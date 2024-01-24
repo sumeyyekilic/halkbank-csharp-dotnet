@@ -1,5 +1,4 @@
-﻿
-using BuiltInInterfaces;
+﻿using BuiltInInterfaces;
 
 Student student1= new Student() { Id=1,Name= "Hakan", Age=26, Score=74};
 Student student2= new Student() { Id=1,Name= "Sümeyye", Age=30, Score=65};
