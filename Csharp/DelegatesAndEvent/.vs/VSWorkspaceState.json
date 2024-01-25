@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EventMechanisms",
+    "\\LINQEssentials",
+    "\\LINQEssentials\\AnonymousTypes",
+    "\\LINQEssentials\\ExtensionMethod",
+    "\\LINQEssentials\\LINQSamples",
+    "\\LINQEssentials\\LINQSamples\\LINQSamples",
+    "\\WhatIsDelegate"
   ],
+  "SelectedNode": "\\LINQEssentials\\LINQSamples\\LINQSamples\\Product.cs",
   "PreviewInSolutionExplorer": false
 }
