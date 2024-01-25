@@ -3,8 +3,10 @@
     "",
     "\\Csharp",
     "\\OOPOverview",
-    "\\OOPOverview\\Inheritance"
+    "\\OOPOverview\\Inheritance",
+    "\\OOPOverview\\LooselyCoupled",
+    "\\OOPOverview\\LooselyCoupled\\LooselyCoupled"
   ],
-  "SelectedNode": "\\OOPOverview\\Inheritance\\Yemek.cs",
+  "SelectedNode": "\\OOPOverview\\Inheritance\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
