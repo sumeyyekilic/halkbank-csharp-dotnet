@@ -1,0 +1,15 @@
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.AssemblyReference.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfo.cs
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.exe
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.deps.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.runtimeconfig.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\refint\AnonymousTypes.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.genruntimeconfig.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DelegatesAndEvent\LINQEssentials\AnonymousTypes\obj\Debug\net7.0\ref\AnonymousTypes.dll
