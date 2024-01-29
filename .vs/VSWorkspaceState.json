@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\aspdotnet",
+    "\\aspdotnet\\eshop\\eshop.MVC\\Views",
+    "\\aspdotnet\\eshop\\eshop.MVC\\Views\\Home",
+    "\\aspdotnet\\eshop\\eshop.MVC\\Views\\Shared",
+    "\\aspdotnet\\eshop\\eshop.MVC\\wwwroot",
+    "\\aspdotnet\\intro"
   ],
+  "SelectedNode": "\\aspdotnet\\eshop",
   "PreviewInSolutionExplorer": false
 }
