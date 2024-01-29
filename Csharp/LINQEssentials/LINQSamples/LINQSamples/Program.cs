@@ -114,6 +114,20 @@ Console.WriteLine($"{allPoducts.Max().Price}");
 var categories = new ProductService().GetCategories();
 
 var anotherAllProducts = new ProductService().GetProducts();
+#region MyRegion
+var phone = new Category() { Id = 1, Name = "Phone" };
+var wearing = new Category() { Id = 21, Name = "Wearing" };
+var Eelectronic = new Category() { Id = 3, Name = "Phone" };
+Lis<Category> category = new { phone, wearing, Eelectronic };
+List<Product> anathorProduct = new List<Product>()
+{
+    new(){Id=5, Name ="Telefon A", Description="Android", IsStock= true, Price=8500, Category = phone},
+                new(){ Id=6, Name ="Telefon B", Description="Android", IsStock= true, Price=10500, Category = phone},
+                new(){ Id=7, Name ="Telefon C", Description="IoS", IsStock= true, Price=78500, Category = phone},
+                new(){ Id= 8, Name ="Telefon D", Description="Android", IsStock= true, Price=12500, Category = phone},
+                new(){ Id= 9, Name ="Tekstil X", Description="Tişört", IsStock= true, Price=500, Category = phone},}
+};
+#endregion
 var joinQuery = categories.Join(anotherAllProducts,
                                 category => category,
                                 product => product.Category,
@@ -132,4 +146,49 @@ anotherAllProducts.Select(p => new { ProductName = p.Name, CategoryName = p.Cate
                   .ToList()
 
                 .ForEach(p => Console.WriteLine($"{p.ProductName}, {p.CategoryName}"));
+
+/* 
+ *bir müşteri nesnesi ve müşteri koleksiyonumuz var
+ *eğer hangi ülkede kaç müşteri old merak editorsanız
+ *group by ile ülkeye göre iki gruba ayırırsınız. (bir tarafta ülkeler- bir tarafta müşter,ler. küme gibi)
+ *
+ *
+ *  Ülke    Müşteri Sayısı
+ *  -----------------------
+ *  Türkiye     570
+ *  Azerbaycan  400
+ *  Kırgızistan 30
+ *
+ **
+ */
+
+//tüm ürünleri açıklamalarına göre gruplamak istiyorum
+/*
+ *SELECT Description , Count(Id)
+ *From Products
+ *
+ */
+var qroupByQuery = anathorProduct.GroupBy(keySelector: p => p.Description,
+    elementSelector: element => new { element.Name, element.Price },
+    resultSelector: (key, products) => new
+    {
+        Key = key,
+        Count = products.Count(),
+        MaxPrice = products.Max(),
+        Total = product.Sum(product => product.Price),
+        Average = products.Average(p => p.Price)
+    });
+Console.WriteLine("Açıklamaya göre gruplanmış çıktı");
+Console.WriteLine("--------------------------------");
+foreach (var gruping in qroupByQuery)
+{
+    Console.WriteLine($"{gruping.Key} \t{gruping.Count}\t{gruping.MaxPrice}\t{gruping.Total}\t{gruping.Average}")
+}
+
+var chunkProducts= anathorProduct.Chunk(3); //sıralı koleksiyon
+
+//tekrar edenlerden yanlızca bir tanesini getir
+var distincSample = anathorProduct.Distinct();
+Console.WriteLine("Distinc result");
+distincSample.ToList().ForEach(p => Console.WriteLine(p.Name));
 

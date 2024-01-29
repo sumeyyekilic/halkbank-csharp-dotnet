@@ -1,0 +1,17 @@
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\bin\Debug\net7.0-windows\DynamicRuntime.exe
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\bin\Debug\net7.0-windows\DynamicRuntime.deps.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\bin\Debug\net7.0-windows\DynamicRuntime.runtimeconfig.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\bin\Debug\net7.0-windows\DynamicRuntime.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\bin\Debug\net7.0-windows\DynamicRuntime.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.csproj.AssemblyReference.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.Form1.resources
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.csproj.GenerateResource.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.AssemblyInfoInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.AssemblyInfo.cs
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.csproj.CoreCompileInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\refint\DynamicRuntime.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\DynamicRuntime.genruntimeconfig.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\DynamicRuntime\DynamicRuntime\obj\Debug\net7.0-windows\ref\DynamicRuntime.dll

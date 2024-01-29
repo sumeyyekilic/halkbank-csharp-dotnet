@@ -1,0 +1,17 @@
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\bin\Debug\net7.0-windows\MultiThreading.exe
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\bin\Debug\net7.0-windows\MultiThreading.deps.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\bin\Debug\net7.0-windows\MultiThreading.runtimeconfig.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\bin\Debug\net7.0-windows\MultiThreading.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\bin\Debug\net7.0-windows\MultiThreading.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.Form1.resources
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.csproj.GenerateResource.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.AssemblyInfo.cs
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\refint\MultiThreading.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.pdb
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\MultiThreading.genruntimeconfig.cache
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\Csharp\AsynchronousProgramming\MultiThreading\obj\Debug\net7.0-windows\ref\MultiThreading.dll
