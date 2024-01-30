@@ -25,9 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.githubcopilot.com/_ping": {},
-          "https://copilot-proxy.githubusercontent.com/_ping": {},
-          "https://pnexusap01/repository/nuget-hosted": {}
+          "https://pnexusap01/repository/nuget-hosted": {},
+          "https://pnexusap01/repository/nugetgroupv3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -48,6 +47,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -89,9 +104,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.githubcopilot.com/_ping": {},
-          "https://copilot-proxy.githubusercontent.com/_ping": {},
-          "https://pnexusap01/repository/nuget-hosted": {}
+          "https://pnexusap01/repository/nuget-hosted": {},
+          "https://pnexusap01/repository/nugetgroupv3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -149,9 +163,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.githubcopilot.com/_ping": {},
-          "https://copilot-proxy.githubusercontent.com/_ping": {},
-          "https://pnexusap01/repository/nuget-hosted": {}
+          "https://pnexusap01/repository/nuget-hosted": {},
+          "https://pnexusap01/repository/nugetgroupv3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -172,6 +185,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -216,9 +237,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.githubcopilot.com/_ping": {},
-          "https://copilot-proxy.githubusercontent.com/_ping": {},
-          "https://pnexusap01/repository/nuget-hosted": {}
+          "https://pnexusap01/repository/nuget-hosted": {},
+          "https://pnexusap01/repository/nugetgroupv3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
