@@ -1,4 +1,6 @@
-﻿@model IEnumerable<Product>
+﻿@*@model IEnumerable<Product>*@
+@model IEnumerable<ProductDisplayResponse>
+
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -7,7 +9,7 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
-
+@* 
 <div class="row">
     @foreach (var product in Model)
     {
@@ -22,6 +24,15 @@
                     <a href="#" class="btn btn-primary">Sepete Ekle</a>
                 </div>
             </div>
+        </div>
+    }
+</div> *@
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-3">
+            <partial name="_ProductCard" model="@product" />
         </div>
     }
 </div>

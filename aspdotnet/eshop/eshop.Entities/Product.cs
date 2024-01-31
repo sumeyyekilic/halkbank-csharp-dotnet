@@ -13,7 +13,7 @@ namespace eshop.Entities
         [Required]
         public decimal Price { get; set; }
         public string ImageUrl { get; set; }
-        public int Stock { get; set; }
+        public int? Stock { get; set; }
         public int? CategoryId { get; set; }
         //Navigation Property
         public Category? Category { get; set; }

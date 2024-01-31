@@ -14,3 +14,5 @@ C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataA
 C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataAccess\obj\Debug\net7.0\refint\eshop.DataAccess.dll
 C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataAccess\obj\Debug\net7.0\eshop.DataAccess.pdb
 C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataAccess\obj\Debug\net7.0\ref\eshop.DataAccess.dll
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataAccess\bin\Debug\net7.0\eshop.DataAccess.runtimeconfig.json
+C:\Users\B67TSGB\source\repos\halkbank-csharp-dotnet\aspdotnet\eshop\eshop.DataAccess\obj\Debug\net7.0\eshop.DataAccess.genruntimeconfig.cache
